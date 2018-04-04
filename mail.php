@@ -1,4 +1,4 @@
-<?php
+/*<?php
     $to = 'demo@spondonit.com';
     $firstname = $_POST["fname"];
     $email= $_POST["email"];
@@ -29,3 +29,4 @@
     }
 
 ?>
+*/
